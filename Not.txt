@@ -1,0 +1,1 @@
+Kroner arter hastalığının teşhisi için geliştirilmiştir. Projede optimizosyon için benzetilmiş tavlama yöntemi kullanılmıştır. Sınıflandırma kısmında ise KNN ve Perceptron sınıflandırma kütüphanelerinden faydalanılmıştır.  
